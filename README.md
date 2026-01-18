@@ -7,7 +7,7 @@ I enjoy turning real problems into well-structured tools — with an eye on perf
 
 ## 🚀 What I’m Working With
 
-- **Languages:**![Python](https://img.shields.io/badge/-Python-39FAE5?style=flat-square&logo=Python&logoColor=black)
+- ***Languages:***  ![Python](https://img.shields.io/badge/-Python-39FAE5?style=flat-square&logo=Python&logoColor=black)
 ![C](https://img.shields.io/badge/-C-3AD1FA?style=flat-square&logo=C&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
