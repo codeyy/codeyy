@@ -7,8 +7,8 @@ I enjoy turning real problems into well-structured tools — with an eye on perf
 
 ## 🚀 What I’m Working With
 
-- **Languages:**![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black)
+- **Languages:**![Python](https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=Python&logoColor=black)
+![C](https://img.shields.io/badge/-C-F7DF1E?style=flat-square&logo=C&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
