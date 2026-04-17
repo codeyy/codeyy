@@ -21,4 +21,4 @@
 </p>
 
 
-> #### Feel free to reach out for collaborations or project ideas!
+#### Feel free to reach out for collaborations or project ideas!
