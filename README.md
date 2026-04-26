@@ -1,5 +1,5 @@
-# Welcome to my github
-<h4>Hi there, I'm Agam! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"></h4>
+# I Welcome thee to my github
+<h4>Greetings, I am Agam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"></h4>
 
 ### codeyy's GitHub Analytics
 ![codeyy](https://github-readme-stats-eight-theta.vercel.app/api?username=codeyy&show_icons=true&theme=nightowl&count_private=true)
