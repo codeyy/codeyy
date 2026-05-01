@@ -6,6 +6,9 @@
 
 ![codeyy](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codeyy&layout=compact&langs_count=10&theme=nightowl)
 
+
+
+![Top Langs](https://vercel.app)
 #### Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-%23C792EA?style=flat&logo=fastapi&logoColor=70C3B6&labelColor=0b192e&color=0b192e" />
