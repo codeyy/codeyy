@@ -1,4 +1,4 @@
-# I Welcome thee to my github
+# Welcome to my github
 <h4>Greetings, I am Agam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"></h4>
 
 ### codeyy's GitHub Analytics
